@@ -11,4 +11,4 @@ A website that offers fitness training services.
 https://ebeltz.github.io/run-buddy/
 
 ## Contribution
-Made with ❤️ by Elizabeth B
+Made with ❤️ by Elizabeth Beltz
